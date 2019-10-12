@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PingPong/static/css/main.dfca195d.chunk.css",
+    "main.js": "/PingPong/static/js/main.588eb18e.chunk.js",
+    "main.js.map": "/PingPong/static/js/main.588eb18e.chunk.js.map",
+    "runtime-main.js": "/PingPong/static/js/runtime-main.9af18176.js",
+    "runtime-main.js.map": "/PingPong/static/js/runtime-main.9af18176.js.map",
+    "static/js/2.f9fb2358.chunk.js": "/PingPong/static/js/2.f9fb2358.chunk.js",
+    "static/js/2.f9fb2358.chunk.js.map": "/PingPong/static/js/2.f9fb2358.chunk.js.map",
+    "index.html": "/PingPong/index.html",
+    "precache-manifest.58f75daf412f3d346204a8769cbf926c.js": "/PingPong/precache-manifest.58f75daf412f3d346204a8769cbf926c.js",
+    "service-worker.js": "/PingPong/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/PingPong/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/PingPong/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9af18176.js",
+    "static/js/2.f9fb2358.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.588eb18e.chunk.js"
+  ]
+}
